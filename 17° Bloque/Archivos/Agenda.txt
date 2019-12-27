@@ -1,0 +1,15 @@
+Nombre: Mario2
+Apellidos: Miranda
+Telefono: 5522113344
+Nombre: Mario
+Apellidos: Miranda
+Telefono: 5577889944
+Nombre: Irene 
+Apellidos: G
+Telefono: 4455669988
+Nombre: Annette 
+Apellidos: Sando
+Telefono: 5577889944
+Nombre: Miguel
+Apellidos: SAndo
+Telefono: 5544112233
